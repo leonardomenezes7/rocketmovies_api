@@ -32,7 +32,7 @@ class MoviesController {
     const tags = await knex("tags").where({movie_id: id}).orderBy("name")
 
     response.json({
-      movie,
+      ...movie,
       tags
     })
   }
