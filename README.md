@@ -3,6 +3,8 @@
 ## 📁Project
 Here is a description of the API developed in Node.js:
 
+(Frontend Repository)[https://github.com/leonardomenezes7/rocketmovies_frontend]
+
 The API is designed to provide functionality for managing users, notes, and tags, allowing the creation, and deletion of notes, as well as the association of tags with those notes. Additionally, the API offers user authentication using JWT tokens to ensure the security of operations.
 
 ## 🧱Structure
