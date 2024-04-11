@@ -38,6 +38,7 @@ The API is designed to provide functionality for managing users, notes, and tags
 - bcrypt
 - Multer
 - cors
+- Jest
 
 ## 💾Database Structure
 ![Captura de tela 2024-04-09 035053](https://github.com/leonardomenezes7/rocketmovies_api/assets/145611761/a71c7105-2cb8-4cb8-9832-51437b5b82c3)
