@@ -1,5 +1,6 @@
 const AppError = require("../utils/AppError")
-const { compare } = require("bcrypt")
+const { compare, hash } = require("bcrypt")
+const knex = require("../database/knex")
 const UserRepository = require("../repositories/UserRepository")
 const UserCreateService = require("../services/UserCreateService")
 
